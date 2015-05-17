@@ -42,6 +42,7 @@ MODULES		+= drivers/frsky_telemetry
 MODULES		+= modules/sensors
 MODULES		+= drivers/mkblctrl
 MODULES		+= drivers/px4flow
+MODULES 	+= drivers/irlock
 
 #
 # System commands
