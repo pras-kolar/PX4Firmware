@@ -58,7 +58,7 @@
 #include "uORB/uORB.h"
 /* Configuration Constants */
 #define IRLOCK_BUS PX4_I2C_BUS_EXPANSION
-#define I2C_IRLOCK_ADDRESS 0x65 //* 7-bit address (non shifted)
+#define I2C_IRLOCK_ADDRESS 0x54 //* 7-bit address (non shifted)
 #define IRLOCK_CONVERSION_INTERVAL 20000 /* us = 20ms = 50Hz */
 #define IRLOCK_SYNC	0xAA55
 #define IRLOCK_RESYNC	0x5500
