@@ -35,6 +35,7 @@
  * @file px4_nodehandle.cpp
  *
  * PX4 Middleware Wrapper Nodehandle
+ * Module to utilize the ros nodes
  */
 #include <px4_nodehandle.h>
 
